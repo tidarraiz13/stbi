@@ -1,2 +1,1 @@
-# stbi
-tugas1
+#legal retrieval
