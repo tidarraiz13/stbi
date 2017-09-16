@@ -1,0 +1,2 @@
+# stbi
+tugas1
