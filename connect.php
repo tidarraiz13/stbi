@@ -1,10 +1,10 @@
 <?php
 $host='localhost';
-$user='root';
-$pass='';
-$database='dbstbi';
+$user='id3231518_root';
+$pass='123456';
+$database='id3231518_stbi';
 
-$conn=mysql_connect($host,$user,$pass);
-mysql_select_db($database);
+$conn=new mysqli($host,$user,$pass,$database) or die('MySql Tidak Connect');
+//mysql_select_db($database);
 
 ?>
